@@ -1,0 +1,22 @@
+.create{
+    flex-direction: column;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.inp{
+    margin-bottom: 10px;
+    color: black;
+}
+.btn{
+    color: black;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub{
+    cursor: pointer;
+    color: black;
+}
